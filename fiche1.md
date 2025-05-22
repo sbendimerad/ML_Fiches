@@ -144,7 +144,7 @@
 
 | Bagging                    | Boosting                      |
 |---------------------------|-------------------------------|
-| Modèles entraînés en //   | Modèles entraînés en série   |
+| Arbres train parallèle    | Modèles entraînés en série   |
 | Réduit variance           | Réduit biais                  |
 | Exemple : Random Forest   | Exemple : XGBoost             |
 
