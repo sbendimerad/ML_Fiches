@@ -174,7 +174,7 @@
 - Classique : `KFold` (ou `StratifiedKFold`)
 - TimeSeries : `TimeSeriesSplit`
 
-> _🖼️ Place ici une image du schéma de cross-validation_
+![Cross Validation](./images/cross_validation.png)
 
 ---
 
