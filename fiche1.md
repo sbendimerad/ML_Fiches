@@ -196,7 +196,7 @@
 - Seuil à 0.5 → classe 0 ou 1
 - Interprétable (coefficients)
 
-![Lin Reg VS Log Reg](./images/linregvslogreg.png)
+![Lin Reg VS Log Reg](./images/linregvslogreg.webp)
 
 ---
 
