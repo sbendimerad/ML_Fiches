@@ -174,7 +174,7 @@
 - Classique : `KFold` (ou `StratifiedKFold`)
 - TimeSeries : `TimeSeriesSplit`
 
-![Cross Validation](./images/cross_validation.png)
+![Cross Validation](./images/crossvalidation.png)
 
 ---
 
